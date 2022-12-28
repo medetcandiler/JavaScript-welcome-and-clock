@@ -9,6 +9,8 @@ Merhaba, ben Medetcan, Aslen Makine Mühendisi olsam da bilgisayar, bilgisayar b
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/medetcandiler)
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/medetdiler/)
+
+[![Lınkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/medetcandiler/)
 ---
 Proje örnek görsel:
 
